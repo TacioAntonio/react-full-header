@@ -13,7 +13,7 @@ $ npm i
 ```
 
 ## Como utilizar
-```js
+```jsx
 <FullHeader
     title="title"
     subtitle="subtitle."
