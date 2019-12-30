@@ -5,12 +5,33 @@
 ![FullHeader](./images/fullheader.png)
 > Um componente de **full header** criado com React.
 
-## Como utilizar
+## Instalação
 ```sh
 $ git clone https://github.com/TacioAntonio/react-full-header.git
 $ cd react-full-header
 $ npm i
 ```
+
+## Como utilizar
+```js
+<FullHeader
+    title="title"
+    subtitle="subtitle."
+    bgColor="#EBE9EB"
+    textColor="#3299BB"
+    font="Arial"
+    video="my_video.mp4"
+/>
+```
+
+## Props
+* title (string) - main title
+* subtitle (string) - subtitle
+* bgColor (string) - background color
+* bgImg (string) - image to background
+* video (string) - video to background
+* textColor (string) - texts color
+* font (string) - font-family to texts
 
 ## Contribuição
 
