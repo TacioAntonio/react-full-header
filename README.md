@@ -1,4 +1,4 @@
-# React :: Component - <FullHeader />
+# React :: Component - *FullHeader*
 
 ![Build Status](https://travis-ci.org/lyef/lyef-react-component.svg) ![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)
 
