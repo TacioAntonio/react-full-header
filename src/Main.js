@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-first-prop-new-line */
+/* eslint-disable arrow-body-style */
 /* eslint-disable react/prop-types */
 import React from 'react';
 import PropTypes from 'prop-types';
